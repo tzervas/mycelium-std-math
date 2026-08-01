@@ -9,10 +9,10 @@ description = "std.math — Ring-2 / Tier-B numeric functions over the honest nu
 publish = false
 
 [dependencies]
-mycelium-core = { git = "https://github.com/tzervas/mycelium-core", rev = "3958d2ea3c3921611e33f1f00e3469b29a939a76" }
-mycelium-std-core = { git = "https://github.com/tzervas/mycelium-std-core", rev = "376762cc17853e1582684ececf9e760426bcfb0c" }
-mycelium-numerics = { git = "https://github.com/tzervas/mycelium-value", rev = "4e7e800eeaf392d4dcace425a618b43a528338ef" }
-mycelium-std-numerics = { git = "https://github.com/tzervas/mycelium-std-numerics", rev = "2676276b1559f0c1c0b1c0c39ad48ba6ff89d639" }
+mycelium-core = { git = "https://github.com/tzervas/mycelium-core", rev = "57ef45b453eef1f02bdfb1f0cad1034dabd32b1f" }
+mycelium-std-core = { git = "https://github.com/tzervas/mycelium-std-core", rev = "f8db1265d973c86e422f1d49678e00b45b4f9a9b" }
+mycelium-numerics = { git = "https://github.com/tzervas/mycelium-value", rev = "fd4c3b307918fe6d58251a0b24a81e9f384d65ba" }
+mycelium-std-numerics = { git = "https://github.com/tzervas/mycelium-std-numerics", rev = "02596ec1d04e8b575944f09ca7003120d4704f73" }
 
 [lints]
 workspace = true
